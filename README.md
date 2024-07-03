@@ -1,7 +1,21 @@
-# 💫 About Me:
-👋 Hey there!<br>I'm Prachet Balaji, a grad student at NYU, diving deep into Data Science, ML, AI, and Computer Vision. 🚀<br><br>What I do:<br>📊 Data Science: Turning raw data into insights (and pretty graphs).<br>🧠 Machine Learning: Teaching machines to learn (and not take over the world).<br>👁️ Computer Vision: Helping computers see and interpret the world.<br><br>Fun Facts:<br>Created a novel dataset by noticing the aliasing effect on a window mesh.<br>Obsessed with finding the perfect hyperparameters.<br><br>Currently:<br>Exploring Random Forests and probability adjustments in imbalanced datasets.<br>Thesis on optimizing emergency service placements in urban areas.<br>Working with Intel's neural-chat-7b-v3-1 model and OpenVINO LLM chatbot with RAG.
+### 👋 Hey there!
 
+I'm Prachet Balaji, a grad student at NYU, diving deep into Data Science, ML, AI, and Computer Vision. 🚀
 
+### What I do:
+- 📊 Data Science: Turning raw data into insights (and pretty graphs).
+- 🧠 Machine Learning: Teaching machines to learn (and not take over the world).
+- 👁️ Computer Vision: Helping computers see and interpret the world.
+
+### Fun Facts:
+- Created a novel dataset by noticing the aliasing effect on a window mesh.
+- Obsessed with finding the perfect hyperparameters.
+
+### Currently:
+- Exploring Random Forests and probability adjustments in imbalanced datasets.
+- Working with Gemma and Llama models and OpenVINO LLM chatbot with RAG.
+- Thesis on optimizing emergency service placements in urban areas.
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prachet-balaji/) 
 
