@@ -29,10 +29,4 @@ I'm Prachet Balaji, a grad student at NYU, diving deep into Data Science, ML, AI
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
