@@ -13,7 +13,6 @@ I'm Prachet Balaji, a grad student at NYU, diving deep into Data Science, ML, AI
 
 ### Currently:
 - Exploring Random Forests and probability adjustments in imbalanced datasets.
-- Working with Gemma and Llama models and OpenVINO LLM chatbot with RAG.
 - Thesis on optimizing emergency service placements in urban areas.
   
 ## 🌐 Socials:
